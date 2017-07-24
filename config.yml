@@ -1,0 +1,6 @@
+# For colors, use the symbol & with the number/letter (for example &e for yellow)
+
+bungeesignteleport:
+  messages:
+    server-not-existing: "&4This server doesn't exist."
+    teleported-to-server: "&2You have been teleported to the server sucessfully!"
